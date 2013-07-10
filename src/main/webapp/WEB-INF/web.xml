@@ -24,5 +24,5 @@
 	<listener>
 		<listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
 	</listener>
-
+<welcome-file>hello.jsp</welcome-file>
 </web-app>
